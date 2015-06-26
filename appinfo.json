@@ -1,0 +1,24 @@
+{
+    "appKeys": {
+        "text": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rorpage",
+    "longName": "PinMkr",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "PinMkr",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "92D6503C-2FA1-47B0-8B5C-0DA8E843C664",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
